@@ -1,5 +1,3 @@
-Welcome to Nick Miller's Data Science portfolio.
-
 # App Store Games
 This program determines a game or application type or genre that can be successful on the Apple App Store.
 
