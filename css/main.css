@@ -104,7 +104,7 @@ body {
     background: url(../img/background.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: auto; }
+    background-size: 300px; }
     body#bg-img:after {
       content: '';
       position: absolute;
