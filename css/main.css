@@ -53,8 +53,8 @@
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
-      width: 50%;
-      height: 50%;
+      width: 25%;
+      height: 25%;
       background: url("../img/portrait.jpg");
       border-radius: 50%;
       border: solid 3px #add8e6; }
@@ -105,7 +105,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%; }
+    background-size: 75%; }
     body#bg-img:after {
       content: '';
       position: absolute;
