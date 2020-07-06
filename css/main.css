@@ -105,7 +105,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 75%; }
+    background-size: 90%; }
     body#bg-img:after {
       content: '';
       position: absolute;
